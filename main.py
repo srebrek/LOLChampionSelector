@@ -82,7 +82,7 @@ a = np.array(names_to_list("Darius", "Rammus", "Aurelion Sol", "ChoGath", "Zac")
 
 
 print(repr(reg.predict(a.reshape(1, -1))))
-#if names_to_list("Gnar", "Zac", "Pantheon", "Ezreal", "Twitch") == data[4,:]: print("chuj")
+#if names_to_list("Gnar", "Zac", "Pantheon", "Ezreal", "Twitch") == data[4,:]: print("!!!")
 
 #print(a)
 #print(data[3, :])
